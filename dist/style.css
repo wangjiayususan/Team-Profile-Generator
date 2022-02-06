@@ -1,0 +1,33 @@
+.navbar-text {
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    margin: auto;
+}
+
+.navbar {
+    background-color: rgb(127, 155, 155);
+}
+
+.row {
+    flex-wrap: wrap;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.employee-card {
+    box-shadow: 5px 5px 5px rgb(110, 110, 110);
+    margin: 5px;
+    border-color: white;
+    border-radius: 3px;
+}
+
+.card-body {
+    background-color: rgb(200, 206, 207);
+    background-size: 100%;
+}
+
+.card-header {
+    color:black;
+}
