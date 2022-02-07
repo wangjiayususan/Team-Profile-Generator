@@ -31,3 +31,12 @@
 .card-header {
     color:black;
 }
+
+.list-group-item {
+    flex-wrap: wrap;
+}
+
+.a {
+    flex-wrap: wrap; 
+    display :block;
+}
